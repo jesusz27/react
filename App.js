@@ -45,7 +45,7 @@ export default class App extends Component {
     return (
       
       <View>
-      <Text>{this.state.latitude}--{this.state.i}</Text>
+      <Text>{this.state.latitude}--{this.state.i}///a</Text>
     </View>
 
     );
